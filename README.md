@@ -1,2 +1,4 @@
 # new
-my new repo
+my new repo.
+Class Algotrith Tech
+ 
